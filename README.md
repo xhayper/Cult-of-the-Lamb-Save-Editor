@@ -5,7 +5,7 @@
 
 An easy to use SPA to edit your Cult of the Lamb Save File. Upload your save file, either encrypted of decrypted and start editing it to your liking. Save it and place the new downloaded file in your saves folder.
 
-## Features
+## Featuresa
 
 - Cult General
   - Cult Name
