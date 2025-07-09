@@ -2,6 +2,7 @@
 
 <template>
   <div>
+    <Analytics />
     <NuxtLayout>
       <NuxtPage />
     </NuxtLayout>
@@ -9,5 +10,5 @@
 </template>
 
 <script setup lang="ts">
-import "source-map-support/register";
+import { Analytics } from '@vercel/analytics/nuxt'
 </script>
